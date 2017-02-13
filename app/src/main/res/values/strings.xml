@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">WidgetTest</string>
+    <string name="scanning">Scanning</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+
+    <string-array name="menu_array">
+        <item>Home</item>
+        <item>New Exercise</item>
+        <item>Load Data</item>
+        <item>Options</item>
+    </string-array>
+
+    <string-array name="shooting_tile_array">
+        <item>Shooting 1</item>
+        <item>Shooting 2</item>
+        <item>Shooting 3</item>
+        <item>Shooting 4</item>
+        <item>Shooting 5</item>
+    </string-array>
+
+
+
+    <string name="header_new_exercise">Add athlete or select from list</string>
+    <string name="add_athlete">Add athlete</string>
+    <string name="add_name">Name: </string>
+    <string name="action_websearch">Web Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
